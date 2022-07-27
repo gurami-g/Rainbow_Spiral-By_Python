@@ -1,6 +1,7 @@
 import turtle
 import math
 import random
+#SPIRALI
 wn = turtle.Screen()
 wn.bgcolor('black')
 Albert = turtle.Turtle()
